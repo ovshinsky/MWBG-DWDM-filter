@@ -20,7 +20,7 @@ lengthGrating = 1000
 heightPerturbationSquare = 0.2
 periodPerturbationSquare = 0.517
 gapBetweenBusWaveguideAndPerturbation = 0
-apodizationIndex = 0
+apodizationIndex = 10
 
 #other parameters:
 widthOfEdgeCouplerOutput = 1.52
